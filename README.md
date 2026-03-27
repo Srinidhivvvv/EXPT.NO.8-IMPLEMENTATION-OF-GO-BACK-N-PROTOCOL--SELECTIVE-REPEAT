@@ -1,4 +1,5 @@
-# EXPT.NO.9-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
+# DATE : 12/03/2026
+# EXPT.NO.8-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
 # AIM:
 To write and execute a program for Go-Back-N protocol-Selective Repeat.
 # EQUIPMENTS REQUIRED:
@@ -47,12 +48,9 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
-OUTPUT:
+# OUTPUT:
 
- 
-
-
-
+ <img width="1478" height="934" alt="8" src="https://github.com/user-attachments/assets/b88c3440-a997-4703-846b-8d73552921eb" />
 
 
 
